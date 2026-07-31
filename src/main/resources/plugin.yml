@@ -1,0 +1,16 @@
+name: Leaf
+version: '1.21.4'
+main: geekcrative.easyBuild.Leaf
+api-version: '1.21'
+depend: [FastAsyncWorldEdit]
+commands:
+  kjjzgj:
+    description: 打开快捷建筑工具菜单
+    usage: /kjjzgj
+    aliases: [kj]
+  bc:
+    description: 生成曲线
+    usage: /bc
+  bcpos:
+    description: 设置曲线点
+    usage: /bcpos

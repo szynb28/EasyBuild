@@ -1,0 +1,14 @@
+# IDE settings
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Local server/runtime data
+plugins/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db

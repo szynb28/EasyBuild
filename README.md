@@ -2,6 +2,8 @@
 
 EasyBuild 是一个面向 Minecraft 建筑玩家的 Paper 插件，提供基于 FastAsyncWorldEdit（FAWE）的快捷复制、粘贴、填充、曲线与模板随机粘贴工具。
 
+[English manual](README.en.md)
+
 ## 环境要求
 
 | 项目 | 要求 |
